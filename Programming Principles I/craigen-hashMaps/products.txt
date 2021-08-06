@@ -1,0 +1,9 @@
+784,Corsair DarkCore SE,85.56
+608,32GB USB3.0 (stick),32.54
+817,MSI-MPG SEKIRA 500X (case),256.78
+726,MSI-MPG x570 (mobo),210.97
+504,Sata cables (data),5.74
+761,Ryzen R5 3600,235.95
+234,Corsair Hydro h110 Elite,135.56
+298,Bag of misc laptop screws,2.99
+574,Nvidia RTX 2070 Super (ref PCB),510.15
