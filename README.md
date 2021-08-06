@@ -1,2 +1,2 @@
 # Console-Applications
- Mobile Development I Projects.
+ My IntelliJ Console Applications written with Kotlin.
